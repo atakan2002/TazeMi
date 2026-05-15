@@ -1,16 +1,57 @@
-# taze_mi
+🍎 Akıllı Meyve Sınıflandırma Sistemi
 
-A new Flutter project.
+Bu proje, yapay zeka destekli bir görüntü işleme sistemi kullanarak meyvelerin durumunu analiz eden mobil tabanlı bir sınıflandırma uygulamasıdır.
+Sistem; sağlam, çürük ve çürümek üzere olan elmaları tespit edebilmektedir.
 
-## Getting Started
+Model, yaklaşık 13000 adet meyve görüntüsü ile eğitilmiş olup mobil cihazlara entegre edilerek gerçek zamanlı kullanım hedeflenmiştir.
 
-This project is a starting point for a Flutter application.
+🚀 Projenin Amacı
 
-A few resources to get you started if this is your first Flutter project:
+Bu proje;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Görme engelli bireylerin meyvelerin durumunu kolayca anlayabilmesini,
+- Marketlerde ürün kalite kontrol süreçlerinin hızlandırılmasını,
+- Fabrika ve üretim tesislerinde otomatik meyve ayrıştırma sistemlerine destek sağlamayı
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+amaçlamaktadır.
+
+📱 Mobil Uygulama Özellikleri
+📷 Kamera ile anlık elma tarama
+🤖 Yapay zeka destekli sınıflandırma
+⚡ Gerçek zamanlı sonuç verme
+📊 Sağlam / Çürük / Çürümek Üzere kategorileri
+📱 Mobil uyumlu çalışma
+♿ Erişilebilir kullanım senaryoları
+🧠 Kullanılan Teknolojiler
+Flutter
+Machine Learning
+Computer Vision
+Python
+TensorFlow
+Mobile AI Integration
+📂 Veri Seti
+
+Model eğitimi için yaklaşık:
+
+🍏 Sağlam meyveler
+🍎 Çürük meyveler
+🟡 Çürümek Üzere Olan meyveler
+
+olmak üzere toplamda yaklaşık 13000 görüntü kullanılmıştır.
+
+Veriler farklı açılar, ışık koşulları ve meyve türleri dikkate alınarak hazırlanmıştır.
+
+🎯 Hedef Kullanım Alanları
+
+-♿ Görme Engelli Bireyler
+
+Kameradan alınan görüntü ile meyvenin durumunun sesli veya görsel şekilde kullanıcıya aktarılması.
+
+-🛒 Market Otomasyonları
+
+Ürünlerin hızlı kalite kontrolünün yapılabilmesi.
+
+-🏭 Fabrikalar ve Üretim Tesisleri
+
+Otomatik meyve ayıklama ve üretim süreçlerinde destek sistemi olarak kullanılabilmesi.
+
