@@ -1,3 +1,4 @@
+Computer Vision ve Deep Learning tabanlı mobil meyve sınıflandırma sistemi
 🍎 Akıllı Meyve Sınıflandırma Sistemi
 
 Bu proje, yapay zeka destekli bir görüntü işleme sistemi kullanarak meyvelerin durumunu analiz eden mobil tabanlı bir sınıflandırma uygulamasıdır.
