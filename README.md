@@ -4,7 +4,7 @@ Computer Vision ve Deep Learning tabanlı mobil meyve sınıflandırma sistemi
 🍎 Akıllı Meyve Sınıflandırma Sistemi
 
 Bu proje, yapay zeka destekli bir görüntü işleme sistemi kullanarak meyvelerin durumunu analiz eden mobil tabanlı bir sınıflandırma uygulamasıdır.
-Sistem; sağlam, çürük ve çürümek üzere olan elmaları tespit edebilmektedir.
+Sistem; sağlam, çürük ve çürümek üzere olan meyveleri tespit edebilmektedir.
 
 Model, yaklaşık 13000 adet meyve görüntüsü ile eğitilmiş olup mobil cihazlara entegre edilerek gerçek zamanlı kullanım hedeflenmiştir.
 
