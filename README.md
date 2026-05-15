@@ -12,7 +12,7 @@ Model, yaklaşık 13000 adet meyve görüntüsü ile eğitilmiş olup mobil ciha
 
 Bu proje;
 
-- Görme engelli bireylerin meyvelerin durumunu kolayca anlayabilmesini,
+- Görme engelli bireylerin meyvelerin durumunu sesli yanıt sistemi ile kolayca anlayabilmesini,
 - Marketlerde ürün kalite kontrol süreçlerinin hızlandırılmasını,
 - Fabrika ve üretim tesislerinde otomatik meyve ayrıştırma sistemlerine destek sağlamayı
 
